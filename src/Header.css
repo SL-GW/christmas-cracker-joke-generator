@@ -1,0 +1,13 @@
+.Header {
+  text-align: center;
+}
+
+.header-grid {
+  margin: 30px;
+}
+
+h1 {
+  font-size: 138px;
+
+  font-weight: 700;
+}
