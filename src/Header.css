@@ -7,7 +7,14 @@
 }
 
 h1 {
-  font-size: 138px;
+  font-size: 100px;
 
   font-weight: 700;
+}
+
+.img-left {
+  margin: 10px 20px 10px 40px;
+}
+
+.img-right {
 }
