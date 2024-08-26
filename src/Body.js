@@ -2,6 +2,10 @@ import React from "react";
 import "./Body.css";
 
 export default function Body() {
+  function handleSubmit(event) {
+    event.preventDefault();
+  }
+
   return (
     <div className="Body">
       <h2>
@@ -11,7 +15,7 @@ export default function Body() {
         to find the perfect joke.
       </h2>
       <div className="generator">
-        <form>
+        <form onSubmit={handleSubmit}>
           <input className="input-text" type="text" placeholder="Enter topic" />
           <input className="input-button" type="submit" />
         </form>
