@@ -7,7 +7,8 @@ export default function Body() {
       <h2>
         Create personalised jokes for homemade Christmas crackers. You can have
         football jokes for your sporty relations, science jokes for the smartie
-        pants. Check out the generator below to find the perfect joke.
+        pants and kid's jokes for the little ones. Check out the generator below
+        to find the perfect joke.
       </h2>
       <div className="generator">
         <form>

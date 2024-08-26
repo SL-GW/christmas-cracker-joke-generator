@@ -11,12 +11,13 @@ h2 {
 }
 
 h3 {
-  font-size: 14px;
-  font-weight: 800;
+  font-size: 16px;
+  font-weight: 900;
+  padding-bottom: 30px;
 }
 
 input {
-  margin: 20px 0px 0px 0px;
+  margin: 40px 0px 2px 0px;
 }
 
 .generator {
@@ -25,6 +26,29 @@ input {
   text-align: center;
   display: block;
   margin: auto;
-  margin-top: 30px;
+  margin-top: 40px;
   border-radius: 6px;
+}
+
+.input-text {
+  width: 400px;
+  margin-right: 20px;
+  line-height: 1.5;
+  font-size: 25px;
+  border-radius: 6px;
+  border: none;
+}
+
+.input-button {
+  line-height: 1.5;
+  font-size: 25px;
+  border-radius: 6px;
+  border: none;
+  width: 110px;
+  background: #34a65f;
+  color: #142d4c;
+  font-weight: 700;
+}
+.input-button:hover {
+  border: solid 4px #142d4c;
 }
