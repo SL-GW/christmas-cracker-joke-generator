@@ -1,5 +1,8 @@
 .Header {
   text-align: center;
+  font-family: "Ruge Boogie", cursive;
+
+  font-style: normal;
 }
 
 .header-grid {
@@ -7,14 +10,11 @@
 }
 
 h1 {
-  font-size: 100px;
-
-  font-weight: 700;
+  font-size: 110px;
+  margin-top: 60px;
+  font-weight: 800;
 }
 
 .img-left {
   margin: 10px 20px 10px 40px;
-}
-
-.img-right {
 }

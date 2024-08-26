@@ -1,0 +1,30 @@
+.Body {
+  text-align: center;
+}
+
+h2 {
+  width: 72%;
+  text-align: center;
+  display: block;
+  margin: auto;
+  font-size: 27px;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+input {
+  margin: 20px 0px 0px 0px;
+}
+
+.generator {
+  background-color: #cc231e;
+  width: 72%;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 6px;
+}
